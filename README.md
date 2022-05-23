@@ -17,3 +17,10 @@ Příklady:
  - v pdf fomuláři musíme mít názvy buněk (tyto proměnné nejsou viditelné což je pro nás výhodné) 
  - po výběru správných souborů můžeme spustit plnič a je hotovo 
   
+ToDo: 
+ - vytvořit autoupdate
+ - autoskripty pro instalaci programu 
+ 
+ Nice to have: 
+ - web interface namísto konzole
+ 
