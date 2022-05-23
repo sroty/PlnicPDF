@@ -1,4 +1,4 @@
-# PlnicPDF
+# SrotoAPP
 Program pro automatizaci plnění pdf formulářů
 
 Požadavky: 
